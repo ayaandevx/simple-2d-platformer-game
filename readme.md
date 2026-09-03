@@ -314,16 +314,12 @@ Assets/
 
 Some screenshots from the game:
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="img1.png" alt="Gameplay Screenshot 1" width="100%">
-    </td>
-    <td width="50%">
-      <img src="img2.png" alt="Gameplay Screenshot 2" width="100%">
-    </td>
-  </tr>
-</table>
+
+<img src="img/img1.png" alt="Gameplay Screenshot 1" width="100%">
+  
+  
+<img src="img/img2.png" alt="Gameplay Screenshot 2" width="100%">
+
 
 <p align="center">
   <i>Gameplay screenshots from my first Unity game.</i>
